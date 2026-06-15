@@ -7,9 +7,9 @@ Sistema web de aluguel de cartuchos de Nintendo Switch.
 ---
 
 ## 🔗 Links
-- **Sistema online:** [INSERIR LINK DO FRONTEND VERCEL]
-- **API online:** [INSERIR LINK DO BACKEND RAILWAY]
-- **Repositório:** [INSERIR LINK DO GITHUB]
+- **Sistema online:** https://switchrent.vercel.app/
+- **API online:** https://switchrent-production.up.railway.app/api
+- **Repositório:** https://github.com/RCardoso87/switchrent
 
 ## 👤 Usuários de teste
 | Perfil | E-mail | Senha |
